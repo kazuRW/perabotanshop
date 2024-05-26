@@ -1,5 +1,8 @@
 THIS WEBSITE MAKE WITH CODEIGNITER 3 FIRE! FIRE!
 
+Deploy with vercel :
+https://perabotanshop.vercel.app/
+
 ###################
 What is CodeIgniter
 ###################
